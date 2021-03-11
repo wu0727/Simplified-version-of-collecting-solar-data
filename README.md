@@ -11,7 +11,7 @@ http://arduino.esp8266.com/stable/package_esp8266com_index.json
 
 Now go to Tools —> Board —> Boards Manager
 
-![image]()
+![image](photo/arduino_tool.png)
 
 In the search box write esp8266 and click on Install and the installation of the board should start :
 
